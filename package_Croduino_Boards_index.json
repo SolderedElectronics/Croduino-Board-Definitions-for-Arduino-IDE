@@ -3,15 +3,15 @@
     {
 		"name": "Croduino_Boards",
 		"maintainer": "e-radionica: Arduino compatibles made in Europe",
-		"websiteURL": "https://www.e-radionica.com",
+		"websiteURL": "https://www.e-radionica.com/en",
 		"help": 
 		{
-        "online": "http://www.forum.e-radionica.com"
+        "online": "http://www.forum.e-radionica.com/en/"
 		},
 		"platforms": [
         {       
 			"help": {
-				"online": "http://www.forum.e-radionica.com"
+				"online": "http://www.forum.e-radionica.com/en/"
 			},
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova2-1.0.0.zip", 
