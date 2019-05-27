@@ -58,7 +58,7 @@
 			"size": "5508174",
 			"version": "1.0.0", 
 			"name": "Croduino AVR boards",
-			"architecture": "aavr",
+			"architecture": "avr",
 			"boards": [
             {
               "name": "Croduino Basic2/Basic3 (Atmega328)"
