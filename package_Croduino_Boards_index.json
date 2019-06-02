@@ -3,10 +3,10 @@
     {
 		"name": "Croduino_Boards",
 		"maintainer": "e-radionica: Arduino compatibles made in Europe",
-		"websiteURL": "https://www.e-radionica.com",
+		"websiteURL": "https://www.e-radionica.com/en",
 		"help": 
 		{
-        "online": "http://www.forum.e-radionica.com"
+        "online": "http://www.forum.e-radionica.com/en"
 		},
 		"platforms": [
         {      
