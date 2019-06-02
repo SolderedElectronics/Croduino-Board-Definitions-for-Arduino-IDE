@@ -6,10 +6,10 @@
 		"websiteURL": "https://www.e-radionica.com",
 		"help": 
 		{
-        	"online": "http://www.forum.e-radionica.com/en/"
+        "online": "http://www.forum.e-radionica.com"
 		},
 		"platforms": [
-        {       
+        {      
 			"help": {
 			"online": "http://www.forum.e-radionica.com/en/"
 			},
