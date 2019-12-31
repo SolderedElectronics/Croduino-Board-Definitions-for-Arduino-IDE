@@ -104,7 +104,7 @@
           "boards": [
             {
               "name": "Croduino NOVA32 (ESP32)"
-            }
+            },
 			{
               "name": "Inkplate 6 (ESP32)"
             }
