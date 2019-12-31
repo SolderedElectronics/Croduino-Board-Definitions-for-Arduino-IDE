@@ -93,23 +93,23 @@
 			"help": {
 				"online": "http://www.forum.e-radionica.com"
 			},		
-          "category": "Croduino",           
-          "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
-          "archiveFileName": "CroduinoNova32-1.0.0.zip", 
-		  "checksum": "SHA-256:6746535ebe71c25dba6be80362f467a1b95d4ca4b142b1e11452548e85795073",         
-          "size": "30792122",
-		  "version": "1.0.0", 
-		  "name": "Croduino ESP32 boards",
-          "architecture": "esp32",           
-          "boards": [
-            {
-              "name": "Croduino NOVA32 (ESP32)"
-            },
-			{
-              "name": "Inkplate 6 (ESP32)"
-            }
-          ], 
-          "toolsDependencies": [
+			"category": "Croduino",           
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
+			"archiveFileName": "CroduinoNova32-1.0.0.zip", 
+			"checksum": "SHA-256:6746535ebe71c25dba6be80362f467a1b95d4ca4b142b1e11452548e85795073",         
+			"size": "30792122",
+			"version": "1.0.0", 
+			"name": "Croduino ESP32 boards",
+			"architecture": "esp32",           
+			"boards": [
+				{
+					"name": "Croduino NOVA32 (ESP32)"
+				},
+				{
+					"name": "Inkplate 6 (ESP32)"
+				}
+			], 
+			"toolsDependencies": [
             {
               "packager": "esp32", 
               "version": "1.22.0-80-g6c4433a-5.2.0", 
