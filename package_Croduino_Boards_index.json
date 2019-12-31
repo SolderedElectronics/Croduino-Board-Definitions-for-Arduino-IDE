@@ -3,15 +3,15 @@
     {
 		"name": "Croduino_Boards",
 		"maintainer": "e-radionica: Arduino compatibles made in Europe",
-		"websiteURL": "https://www.e-radionica.com",
+		"websiteURL": "https://www.e-radionica.com/en",
 		"help": 
 		{
-        "online": "http://www.forum.e-radionica.com"
+        "online": "http://www.forum.e-radionica.com/en"
 		},
 		"platforms": [
-        {       
+        {      
 			"help": {
-				"online": "http://www.forum.e-radionica.com"
+			"online": "http://www.forum.e-radionica.com/en/"
 			},
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova2-1.0.0.zip", 
@@ -51,14 +51,14 @@
           "help": {
             "online": "http://www.forum.e-radionica.com"
 			},
-			"category": "Croduino2",		  
+			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/croduino-1.0.0.zip", 
 			"archiveFileName": "croduino-1.0.0.zip",
 			"checksum": "SHA-256:65250b3cba7292f7775b9c2374177924dc73e5cee6c2196e05b99332d4094f1a",
 			"size": "5508174",
 			"version": "1.0.0", 
 			"name": "Croduino AVR boards",
-			"architecture": "aavr",
+			"architecture": "avr",
 			"boards": [
             {
               "name": "Croduino Basic2/Basic3 (Atmega328)"
@@ -73,14 +73,14 @@
           "help": {
             "online": "http://www.forum.e-radionica.com"
 			},		
-			"category": "Croduino",
+			"category": "Croduino_tiny",
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoDamba-1.0.0.zip",
 			"archiveFileName": "CroduinoDamba-1.0.0.zip",
 			"checksum": "SHA-256:968819e1583edcb60b12edc57fde858ea272dfc3ebc6521a72e3e9a5f0407723",
 			"size": "6912024",
 			"version": "1.0.0",
 			"name": "Croduino ATtiny boards",
-			"architecture": "avr",
+			"architecture": "avr_tiny",
 			"boards":
 			[
 				{
