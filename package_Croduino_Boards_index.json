@@ -137,8 +137,8 @@
 			"category": "Croduino_STM32",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_STM32_core.zip", 
 			"archiveFileName": "Croduino_STM32_core.zip", 
-			"checksum": "SHA-256:9ec1cfee4316e272401e87cae6516f02a7a3f64054c2501e6cc7b5154e770ac4",         
-			"size": "6825997",
+			"checksum": "SHA-256:17e364097c75e34f90a5d05f8e7e4aa333176756e119a42c99d8a33042f703b0",         
+			"size": "6826574",
 			"version": "1.0.0", 
 			"name": "Croduino STM32 cores",
 			"architecture": "stm32",           
@@ -147,7 +147,7 @@
 					"name": "Croduino STM32F103C8xx"
 				},
 				{
-					"name": "LoRa_STM32L010RB"
+					"name": "STM32L010RB_Lora"
 				}
 				
 			], 
