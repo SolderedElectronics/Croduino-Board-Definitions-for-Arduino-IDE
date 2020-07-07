@@ -171,7 +171,7 @@
         }		
       ],	  
       "tools": [
-	  {
+		{
           "version": "2.6.0", 
           "name": "esptool_py", 
           "systems": [
@@ -460,8 +460,8 @@
           ]
         },
 		{
-          "name": "xpack-arm-none-eabi-gcc",
           "version": "9.2.1-1.1",
+		  "name": "xpack-arm-none-eabi-gcc",
           "systems":
           [
             {
@@ -495,8 +495,8 @@
           ]
         },
 		{
-          "name": "CMSIS",
           "version": "5.5.1",
+		  "name": "CMSIS",
           "systems":
           [
             {
@@ -544,8 +544,8 @@
           ]
         },
 		{
-          "name": "STM32Tools",
           "version": "1.4.0",
+		  "name": "STM32Tools",
           "systems":
           [
             {
@@ -578,7 +578,7 @@
             }
           ]
         }		
-		]
+	]
     }
   ]
 }
