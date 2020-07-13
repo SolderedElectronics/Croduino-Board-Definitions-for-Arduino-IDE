@@ -54,17 +54,23 @@
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/croduino-1.0.0.zip", 
 			"archiveFileName": "croduino-1.0.0.zip",
-			"checksum": "SHA-256:65250b3cba7292f7775b9c2374177924dc73e5cee6c2196e05b99332d4094f1a",
-			"size": "5508174",
+			"checksum": "SHA-256:dec869fd67dd95db199007d83b50a9e89766ef0e2f0ae46ccf4b0739096771f2",
+			"size": "5861254",
 			"version": "1.0.0", 
 			"name": "Croduino AVR cores",
 			"architecture": "avr",
 			"boards": [
             {
-              "name": "Croduino Basic2/Basic3 (Atmega328)"
-            },							
+              "name": "Croduino Basic2(Atmega328P)"
+            },
+			{
+              "name": "Croduino Basic3(Atmega328P)"
+            },			
 			{
 			  "name": "Croduino ETA/ETA+"
+			},
+			{
+			  "name": "Croduino LoRa(Atmega328P)"
 			}			
 			],
 			"toolsDependencies":[]          
