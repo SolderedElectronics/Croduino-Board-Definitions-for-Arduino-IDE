@@ -135,46 +135,8 @@
               "name": "mkspiffs"
             }
           ]          
-        },
-		{
-			"help": {
-				"online": "http://www.forum.e-radionica.com"
-			},		
-			"category": "Croduino_STM32",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_STM32_core.zip", 
-			"archiveFileName": "Croduino_STM32_core.zip", 
-			"checksum": "SHA-256:1ad97b326c8b2242649df01f3a45ff2a6eefa66d7c366bc835bf5e8674266110",         
-			"size": "6809308",
-			"version": "1.0.0", 
-			"name": "Croduino STM32 cores",
-			"architecture": "stm32",           
-			"boards": [
-				{
-					"name": "Croduino STM32F103C8xx"
-				},
-				{
-					"name": "STM32L010RB_Lora"
-				}
+        }
 				
-			], 
-			"toolsDependencies": [
-            {
-              "packager": "STM32",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.2.1-1.1"
-            },
-            {
-              "packager": "STM32",
-              "name": "STM32Tools",
-              "version": "1.4.0"
-            },
-            {
-              "packager": "STM32",
-              "name": "CMSIS",
-              "version": "5.5.1"
-            }
-          ]          
-        }		
       ],	  
       "tools": [
 		{
