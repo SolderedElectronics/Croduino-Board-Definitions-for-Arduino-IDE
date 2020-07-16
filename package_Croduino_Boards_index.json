@@ -31,17 +31,17 @@
             ],          
 			"toolsDependencies": [
             {
-              "packager": "esp8266", 
+              "packager": "Croduino_Boards", 
               "version": "2.5.0-3-20ed2b9", 
               "name": "esptool"
             }, 
             {
-              "packager": "esp8266", 
+              "packager": "Croduino_Boards", 
               "version": "2.5.0-3-20ed2b9", 
               "name": "xtensa-lx106-elf-gcc"
             }, 
             {
-              "packager": "esp8266", 
+              "packager": "Croduino_Boards", 
               "version": "2.5.0-3-20ed2b9", 
               "name": "mkspiffs"
             }
@@ -120,17 +120,17 @@
 			], 
 			"toolsDependencies": [
             {
-              "packager": "esp32", 
+              "packager": "Croduino_Boards", 
               "version": "1.22.0-80-g6c4433a-5.2.0", 
               "name": "xtensa-esp32-elf-gcc"
             }, 
             {
-              "packager": "esp32", 
+              "packager": "Croduino_Boards", 
               "version": "2.6.0", 
               "name": "esptool_py"
             }, 
             {
-              "packager": "esp32", 
+              "packager": "Croduino_Boards", 
               "version": "0.2.3", 
               "name": "mkspiffs"
             }
