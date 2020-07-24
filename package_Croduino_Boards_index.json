@@ -16,10 +16,10 @@
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova2-1.0.0.zip", 
 			"archiveFileName": "CroduinoNova2-1.0.0.zip",
-			"checksum": "SHA-256:f68deedaa6e42572cc5c66bdc53e13ff7099694a315dcae646c30a32309b6d31", 
-			"size": "27506613",
+			"checksum": "SHA-256:4f5b1a4fbb5b1375ccd1e40b9f11b38437d9c7230426c2c50a0e5767aad30d48", 
+			"size": "27506615",
 			"version": "1.0.0", 
-			"name": "Croduino ESP8266 cores",
+			"name": "Croduino ESP8266 Boards",
 			"architecture": "esp8266",            		  
 			"boards": [
             {
@@ -60,10 +60,10 @@
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/croduino-1.0.0.zip", 
 			"archiveFileName": "croduino-1.0.0.zip",
-			"checksum": "SHA-256:9a9d253369f8f278fcf033df4d47127ad3bda392cf6543643689097c40cec997",
-			"size": "5861317",
+			"checksum": "SHA-256:27fb4542ef1824f2f386807de8316a22ad88a26b41933a1d8f1caebff1086197",
+			"size": "5861318",
 			"version": "1.0.0", 
-			"name": "Croduino AVR cores",
+			"name": "Croduino AVR Boards",
 			"architecture": "avr",
 			"boards": [
             {
@@ -88,10 +88,10 @@
 			"category": "Croduino_tiny",
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoDamba-1.0.0.zip",
 			"archiveFileName": "CroduinoDamba-1.0.0.zip",
-			"checksum": "SHA-256:968819e1583edcb60b12edc57fde858ea272dfc3ebc6521a72e3e9a5f0407723",
-			"size": "6912024",
+			"checksum": "SHA-256:07d4a201cc66c633f36ea30fbb4515f459545d1fd4cd6860ec2797faf986cb59",
+			"size": "6912030",
 			"version": "1.0.0",
-			"name": "Croduino ATtiny cores",
+			"name": "Croduino ATtiny Boards",
 			"architecture": "avr_tiny",
 			"boards":
 			[
@@ -108,10 +108,10 @@
 			"category": "Croduino",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
 			"archiveFileName": "CroduinoNova32-1.0.0.zip", 
-			"checksum": "SHA-256:eeda094359eb9f2b9e26295282b9c539bb08d7a004551adc113e084c84d4fe50",         
-			"size": "30792189",
+			"checksum": "SHA-256:3a7c5fe4804e06a1856729c4635bbc03566ac4c09c830ea7e031397e62af8d8f",         
+			"size": "30792185",
 			"version": "1.0.0", 
-			"name": "Croduino ESP32 cores",
+			"name": "Croduino ESP32 Boards",
 			"architecture": "esp32",           
 			"boards": [
 				{
@@ -152,7 +152,7 @@
 			"checksum": "SHA-256:1ad97b326c8b2242649df01f3a45ff2a6eefa66d7c366bc835bf5e8674266110",         
 			"size": "6809308",
 			"version": "1.0.0", 
-			"name": "Croduino STM32 cores",
+			"name": "Croduino STM32 Boards",
 			"architecture": "stm32",           
 			"boards": [
 				{
