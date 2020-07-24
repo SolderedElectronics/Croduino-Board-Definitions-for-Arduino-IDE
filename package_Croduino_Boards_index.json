@@ -16,14 +16,20 @@
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova2-1.0.0.zip", 
 			"archiveFileName": "CroduinoNova2-1.0.0.zip",
-			"checksum": "SHA-256:b9c2256b1c51b0308bafb8479a4c9d3829a66020de42315418d7aaad595a4b3b", 
-			"size": "27506345",
+			"checksum": "SHA-256:f68deedaa6e42572cc5c66bdc53e13ff7099694a315dcae646c30a32309b6d31", 
+			"size": "27506613",
 			"version": "1.0.0", 
 			"name": "Croduino ESP8266 cores",
 			"architecture": "esp8266",            		  
 			"boards": [
             {
-				"name": "Croduino NOVA/NOVA2/miniNOVA2 (ESP8266)"				
+				"name": "Croduino NOVA(ESP8266)"				
+            },
+			{
+				"name": "Croduino NOVA2(ESP8266)"				
+            },
+			{
+				"name": "Croduino miniNOVA2(ESP8266)"				
             },
 			{
 				"name": "Maker LED Display"
@@ -54,8 +60,8 @@
 			"category": "Croduino",		  
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/croduino-1.0.0.zip", 
 			"archiveFileName": "croduino-1.0.0.zip",
-			"checksum": "SHA-256:dec869fd67dd95db199007d83b50a9e89766ef0e2f0ae46ccf4b0739096771f2",
-			"size": "5861254",
+			"checksum": "SHA-256:9a9d253369f8f278fcf033df4d47127ad3bda392cf6543643689097c40cec997",
+			"size": "5861317",
 			"version": "1.0.0", 
 			"name": "Croduino AVR cores",
 			"architecture": "avr",
@@ -90,7 +96,7 @@
 			"boards":
 			[
 				{
-					"name": "Croduino Damba (ATtiny85)"
+					"name": "Croduino Damba(ATtiny85)"
 				}				
 			],
 			"toolsDependencies": []
@@ -102,17 +108,17 @@
 			"category": "Croduino",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
 			"archiveFileName": "CroduinoNova32-1.0.0.zip", 
-			"checksum": "SHA-256:7b13a4f98028481278c13da24431ec0656ec97621f5faae213ae932241ed8b67",         
-			"size": "30792191",
+			"checksum": "SHA-256:eeda094359eb9f2b9e26295282b9c539bb08d7a004551adc113e084c84d4fe50",         
+			"size": "30792189",
 			"version": "1.0.0", 
 			"name": "Croduino ESP32 cores",
 			"architecture": "esp32",           
 			"boards": [
 				{
-					"name": "Croduino NOVA32 (ESP32)"
+					"name": "Croduino NOVA32(ESP32)"
 				},
 				{
-					"name": "Inkplate 6 (ESP32)"
+					"name": "Inkplate 6(ESP32)"
 				},
 				{
 					"name": "LoRa ESP32"
