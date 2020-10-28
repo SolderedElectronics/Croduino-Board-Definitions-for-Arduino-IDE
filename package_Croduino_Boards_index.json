@@ -108,8 +108,8 @@
 			"category": "Croduino",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
 			"archiveFileName": "CroduinoNova32-1.0.0.zip", 
-			"checksum": "SHA-256:92d7a1b750f8ef1cf01889269e4f127333483f07ea285df7f942a77f0b4132bb",         
-			"size": "30792197",
+			"checksum": "SHA-256:e92d7432411ec9257371707639013f644543024fec2f055bc7b9b551e6ce039b",         
+			"size": "30792512",
 			"version": "1.0.0", 
 			"name": "Croduino ESP32 Boards",
 			"architecture": "esp32",           
@@ -119,6 +119,9 @@
 				},
 				{
 					"name": "Inkplate 6(ESP32)"
+				},
+								{
+					"name": "Inkplate 10(ESP32)"
 				},
 				{
 					"name": "LoRa ESP32"
