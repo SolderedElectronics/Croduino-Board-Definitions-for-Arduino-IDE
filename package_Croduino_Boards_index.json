@@ -14,7 +14,7 @@
 			"online": "http://www.forum.e-radionica.com/en/"
 			},
 			"category": "Croduino",		  
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova2-1.0.0.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_ESP8266_core-1.0.0.zip", 
 			"archiveFileName": "Croduino_ESP8266_core-1.0.0.zip",
 			"checksum": "SHA-256:2d17598ac24173cdad365a224127d49a74d77acba2699bc06d025f440e9639c0", 
 			"size": "27531511",
@@ -58,7 +58,7 @@
             "online": "http://www.forum.e-radionica.com"
 			},
 			"category": "Croduino",		  
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/croduino-1.0.0.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_AVR_core-1.0.0.zip", 
 			"archiveFileName": "Croduino_AVR_core-1.0.0.zip",
 			"checksum": "SHA-256:3a49d38bdfa8c0c4333c6b1f752098702670604dbf0daf2912bbc37c9c59647e",
 			"size": "5875610",
@@ -86,7 +86,7 @@
             "online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino_tiny",
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoDamba-1.0.0.zip",
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_ATtiny_core-1.0.0.zip",
 			"archiveFileName": "Croduino_ATtiny_core-1.0.0.zip",
 			"checksum": "SHA-256:ee3ca5ce526871499e1422dc54bf0a0bf252a86fe3f73764808527b97b321512",
 			"size": "6914830",
@@ -106,7 +106,7 @@
 				"online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_ESP32_core-1.0.0.zip", 
 			"archiveFileName": "Croduino_ESP32_core-1.0.0.zip", 
 			"checksum": "SHA-256:d3d6e92f8abb1802f489ac207ec7943c65540701dde565f751fa7d8f9a036c88",         
 			"size": "30811868",
@@ -144,7 +144,7 @@
 				"online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Inkplate_core-1.0.0.zip", 
 			"archiveFileName": "Inkplate_core-1.0.0.zip", 
 			"checksum": "SHA-256:3dee1e00b266f726db25e1ae3b0dd0f15a22b991f854b9f3455ce1446d228388",         
 			"size": "43515296",
@@ -182,7 +182,7 @@
 				"online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino_STM32",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_STM32_core.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_STM32_core.zip", 
 			"archiveFileName": "Croduino_STM32_core.zip", 
 			"checksum": "SHA-256:1ad97b326c8b2242649df01f3a45ff2a6eefa66d7c366bc835bf5e8674266110",         
 			"size": "6809308",
@@ -221,7 +221,7 @@
 				"online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino_megaTiny",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_megaTiny_core.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_megaTiny_core.zip", 
 			"archiveFileName": "Croduino_megaTiny_core.zip", 
 			"checksum": "SHA-256:72006e3cae4b23975759663057a6f456dbf8f84e4709f159c2fb67542534e890",         
 			"size": "8139130",
