@@ -23,13 +23,13 @@
 			"architecture": "esp8266",            		  
 			"boards": [
             {
-				"name": "Croduino NOVA(ESP8266)"				
+				"name": "Croduino NOVA (ESP8266)"				
             },
 			{
-				"name": "Croduino NOVA2(ESP8266)"				
+				"name": "Croduino NOVA2 (ESP8266)"				
             },
 			{
-				"name": "Croduino miniNOVA2(ESP8266)"				
+				"name": "Croduino miniNOVA2 (ESP8266)"				
             },
 			{
 				"name": "Maker LED Display"
@@ -67,16 +67,16 @@
 			"architecture": "avr",
 			"boards": [
             {
-              "name": "Croduino Basic2(Atmega328P)"
+              "name": "Croduino Basic2 (Atmega328P)"
             },
 			{
-              "name": "Croduino Basic3(Atmega328P)"
+              "name": "Croduino Basic3 (Atmega328P)"
             },			
 			{
 			  "name": "Croduino ETA/ETA+"
 			},
 			{
-			  "name": "Croduino LoRa(Atmega328P)"
+			  "name": "Croduino LoRa (Atmega328P)"
 			}			
 			],
 			"toolsDependencies":[]          
@@ -96,7 +96,7 @@
 			"boards":
 			[
 				{
-					"name": "Croduino Damba(ATtiny85)"
+					"name": "Croduino Damba (ATtiny85)"
 				}				
 			],
 			"toolsDependencies": []
@@ -115,7 +115,7 @@
 			"architecture": "esp32",           
 			"boards": [
 				{
-					"name": "Croduino NOVA32(ESP32)"
+					"name": "Croduino NOVA32 (ESP32)"
 				},
 				{
 					"name": "LoRa ESP32"
@@ -153,10 +153,10 @@
 			"architecture": "Inkplate",           
 			"boards": [
 				{
-					"name": "Inkplate 6(ESP32)"
+					"name": "Inkplate 6 (ESP32)"
 				},
 								{
-					"name": "Inkplate 10(ESP32)"
+					"name": "Inkplate 10 (ESP32)"
 				}
 			], 
 			"toolsDependencies": [
