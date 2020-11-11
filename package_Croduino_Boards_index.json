@@ -14,22 +14,22 @@
 			"online": "http://www.forum.e-radionica.com/en/"
 			},
 			"category": "Croduino",		  
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova2-1.0.0.zip", 
-			"archiveFileName": "CroduinoNova2-1.0.0.zip",
-			"checksum": "SHA-256:4f5b1a4fbb5b1375ccd1e40b9f11b38437d9c7230426c2c50a0e5767aad30d48", 
-			"size": "27506615",
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_ESP8266_core-1.0.0.zip", 
+			"archiveFileName": "Croduino_ESP8266_core-1.0.0.zip",
+			"checksum": "SHA-256:0241eff9ea117297f2dbf885019b87884bde5a90caa961667077cc133d234c4f", 
+			"size": "27531514",
 			"version": "1.0.0", 
 			"name": "Croduino ESP8266 Boards",
 			"architecture": "esp8266",            		  
 			"boards": [
             {
-				"name": "Croduino NOVA(ESP8266)"				
+				"name": "Croduino NOVA (ESP8266)"				
             },
 			{
-				"name": "Croduino NOVA2(ESP8266)"				
+				"name": "Croduino NOVA2 (ESP8266)"				
             },
 			{
-				"name": "Croduino miniNOVA2(ESP8266)"				
+				"name": "Croduino miniNOVA2 (ESP8266)"				
             },
 			{
 				"name": "Maker LED Display"
@@ -58,25 +58,25 @@
             "online": "http://www.forum.e-radionica.com"
 			},
 			"category": "Croduino",		  
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/croduino-1.0.0.zip", 
-			"archiveFileName": "croduino-1.0.0.zip",
-			"checksum": "SHA-256:27fb4542ef1824f2f386807de8316a22ad88a26b41933a1d8f1caebff1086197",
-			"size": "5861318",
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_AVR_core-1.0.0.zip", 
+			"archiveFileName": "Croduino_AVR_core-1.0.0.zip",
+			"checksum": "SHA-256:2f0b7dffff42f7fca758c0796fdcd0e087ebdfd3a445a4036b6bf02913d13686",
+			"size": "5875610",
 			"version": "1.0.0", 
 			"name": "Croduino AVR Boards",
 			"architecture": "avr",
 			"boards": [
             {
-              "name": "Croduino Basic2(Atmega328P)"
+              "name": "Croduino Basic2 (Atmega328P)"
             },
 			{
-              "name": "Croduino Basic3(Atmega328P)"
+              "name": "Croduino Basic3 (Atmega328P)"
             },			
 			{
 			  "name": "Croduino ETA/ETA+"
 			},
 			{
-			  "name": "Croduino LoRa(Atmega328P)"
+			  "name": "Croduino LoRa (Atmega328P)"
 			}			
 			],
 			"toolsDependencies":[]          
@@ -86,17 +86,17 @@
             "online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino_tiny",
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoDamba-1.0.0.zip",
-			"archiveFileName": "CroduinoDamba-1.0.0.zip",
-			"checksum": "SHA-256:07d4a201cc66c633f36ea30fbb4515f459545d1fd4cd6860ec2797faf986cb59",
-			"size": "6912030",
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_ATtiny_core-1.0.0.zip",
+			"archiveFileName": "Croduino_ATtiny_core-1.0.0.zip",
+			"checksum": "SHA-256:ee3ca5ce526871499e1422dc54bf0a0bf252a86fe3f73764808527b97b321512",
+			"size": "6914830",
 			"version": "1.0.0",
 			"name": "Croduino ATtiny Boards",
 			"architecture": "avr_tiny",
 			"boards":
 			[
 				{
-					"name": "Croduino Damba(ATtiny85)"
+					"name": "Croduino Damba (ATtiny85)"
 				}				
 			],
 			"toolsDependencies": []
@@ -106,22 +106,16 @@
 				"online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/CroduinoNova32-1.0.0.zip", 
-			"archiveFileName": "CroduinoNova32-1.0.0.zip", 
-			"checksum": "SHA-256:4e1d46d54e99fbcccd8b4d151e71e8bc4e973087c4da373d0f594861874bcc59",         
-			"size": "30792511",
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_ESP32_core-1.0.0.zip", 
+			"archiveFileName": "Croduino_ESP32_core-1.0.0.zip", 
+			"checksum": "SHA-256:4ab8497dd272722325214de30c72174ede1d03e5df93e39f1410611ec45d72d0",         
+			"size": "30811869",
 			"version": "1.0.0", 
 			"name": "Croduino ESP32 Boards",
 			"architecture": "esp32",           
 			"boards": [
 				{
-					"name": "Croduino NOVA32(ESP32)"
-				},
-				{
-					"name": "Inkplate 6(ESP32)"
-				},
-								{
-					"name": "Inkplate 10(ESP32)"
+					"name": "Croduino NOVA32 (ESP32)"
 				},
 				{
 					"name": "LoRa ESP32"
@@ -149,8 +143,46 @@
 			"help": {
 				"online": "http://www.forum.e-radionica.com"
 			},		
+			"category": "Croduino",           
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Inkplate_core-1.0.0.zip", 
+			"archiveFileName": "Inkplate_core-1.0.0.zip", 
+			"checksum": "SHA-256:e65bafc086eeb7cb1c50b98b9a2de90c7a902222ca25f7c7b6e2c56df4a70fa4",         
+			"size": "43515826",
+			"version": "1.0.0", 
+			"name": "Inkplate Boards",
+			"architecture": "Inkplate",           
+			"boards": [
+				{
+					"name": "Inkplate 6 (ESP32)"
+				},
+								{
+					"name": "Inkplate 10 (ESP32)"
+				}
+			], 
+			"toolsDependencies": [
+            {
+              "packager": "Croduino_Boards", 
+              "version": "1.22.0-80-g6c4433a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }, 
+            {
+              "packager": "Croduino_Boards", 
+              "version": "2.6.0", 
+              "name": "esptool_py"
+            }, 
+            {
+              "packager": "Croduino_Boards", 
+              "version": "0.2.3", 
+              "name": "mkspiffs"
+            }
+          ]          
+        },
+		{
+			"help": {
+				"online": "http://www.forum.e-radionica.com"
+			},		
 			"category": "Croduino_STM32",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_STM32_core.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_STM32_core.zip", 
 			"archiveFileName": "Croduino_STM32_core.zip", 
 			"checksum": "SHA-256:1ad97b326c8b2242649df01f3a45ff2a6eefa66d7c366bc835bf5e8674266110",         
 			"size": "6809308",
@@ -189,10 +221,10 @@
 				"online": "http://www.forum.e-radionica.com"
 			},		
 			"category": "Croduino_megaTiny",           
-			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_megaTiny_core.zip", 
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/revision/Croduino_megaTiny_core.zip", 
 			"archiveFileName": "Croduino_megaTiny_core.zip", 
-			"checksum": "SHA-256:72006e3cae4b23975759663057a6f456dbf8f84e4709f159c2fb67542534e890",         
-			"size": "8139130",
+			"checksum": "SHA-256:a331e45a65122a1cde2b5a14e9848744c99856eb3caefab7723dfdb1d4aae729",         
+			"size": "8139261",
 			"version": "1.0.0", 
 			"name": "Croduino megaTiny Boards",
 			"architecture": "megaavr",           
