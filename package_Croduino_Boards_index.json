@@ -223,13 +223,15 @@
 			"category": "Croduino_megaTiny",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Croduino_megaTiny_core-1.0.0.zip", 
 			"archiveFileName": "Croduino_megaTiny_core-1.0.0.zip", 
-			"checksum": "SHA-256:33e65b27e738b1011fdefa33be0854c816f9ec239220907ebad4ffb7a816ef6f",         
-			"size": "8486563",
+			"checksum": "SHA-256:049c4995756d0f5e962f9d5cb114c72c2596503c74804b73e14c135a8be42cdf",         
+			"size": "8486556",
 			"version": "1.0.0", 
 			"name": "Croduino megaTiny Boards",
 			"architecture": "megaavr",           
 			"boards": [
-				{"name": "BIGZ:bot"}
+				{
+				"name": "BIGZ:bot"
+				}
 				
 				],
 			"toolsDependencies": [
