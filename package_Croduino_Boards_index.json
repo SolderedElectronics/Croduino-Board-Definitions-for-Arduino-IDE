@@ -146,8 +146,8 @@
 			"category": "Croduino",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Inkplate_core-1.0.0.zip", 
 			"archiveFileName": "Inkplate_core-1.0.0.zip", 
-			"checksum": "SHA-256:ec12491cec41ce2c95594712c6215de48a76c5d4c1a2f4fb8354615328f10c61",         
-			"size": "31405440",
+			"checksum": "SHA-256:c993aa14060e89e35b74bdbf3017d9ba5dee03d532ac36c225bda547c8dd3a61",         
+			"size": "31409253",
 			"version": "1.0.0", 
 			"name": "Inkplate Boards",
 			"architecture": "Inkplate",           
@@ -268,10 +268,10 @@
             }, 
             {
               "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-2.6.0-macos.tar.gz", 
-              "checksum": "SHA-256:0a881b91547c840fab8c72ae3d031069384278b8c2e5241647e8c8292c5e4a4b", 
+              "checksum": "SHA-256:a1a0fd5d44b324dfdb8d7bfb1fc62b64dd80bee76c57d1927425099c01d898fb", 
               "host": "x86_64-apple-darwin", 
               "archiveFileName": "esptool-2.6.0-macos.tar.gz", 
-              "size": "3835660"
+              "size": "7102322"
             }, 
             {
               "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-2.6.0-linux.tar.gz", 
