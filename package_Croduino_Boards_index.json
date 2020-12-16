@@ -267,10 +267,10 @@
               "size": "3421208"
             }, 
             {
-              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool.tar.gz", 
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-2.6.0-macos.tar.gz", 
               "checksum": "SHA-256:6fa3ca3287d838c7ec4c99f197c1364b7f6db0dfc61cbcf42a1febbce5f5377d", 
               "host": "x86_64-apple-darwin", 
-              "archiveFileName": "esptool.tar.gz", 
+              "archiveFileName": "esptool-2.6.0-macos.tar.gz", 
               "size": "14871040"
             }, 
             {
