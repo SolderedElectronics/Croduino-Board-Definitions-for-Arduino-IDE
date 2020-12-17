@@ -124,7 +124,7 @@
 			"toolsDependencies": [
             {
               "packager": "Croduino_Boards", 
-              "version": "1.22.0-96-g2852398-5.2.0" 
+              "version": "1.22.0-96-g2852398-5.2.0", 
               "name": "xtensa-esp32-elf-gcc"
             }, 
             {
