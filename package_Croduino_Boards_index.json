@@ -177,6 +177,44 @@
             }
           ]          
         },
+				{
+			"help": {
+				"online": "http://www.forum.e-radionica.com"
+			},		
+			"category": "Croduino",           
+			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Inkplate_core-1.0.0.zip", 
+			"archiveFileName": "Inkplate_core-1.0.0.zip", 
+			"checksum": "SHA-256:c993aa14060e89e35b74bdbf3017d9ba5dee03d532ac36c225bda547c8dd3a61",         
+			"size": "31409253",
+			"version": "1.0.1", 
+			"name": "Inkplate Boards",
+			"architecture": "Inkplate",           
+			"boards": [
+				{
+					"name": "Inkplate 6 (ESP32)"
+				},
+								{
+					"name": "Inkplate 10 (ESP32)"
+				}
+			], 
+			"toolsDependencies": [
+            {
+              "packager": "Croduino_Boards", 
+              "version": "1.22.0-96-g2852398-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }, 
+            {
+              "packager": "Croduino_Boards", 
+              "version": "3.0.0", 
+              "name": "esptool_py"
+            }, 
+            {
+              "packager": "Croduino_Boards", 
+              "version": "0.2.3", 
+              "name": "mkspiffs"
+            }
+          ]          
+        },
 		{
 			"help": {
 				"online": "http://www.forum.e-radionica.com"
