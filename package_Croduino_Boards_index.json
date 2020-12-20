@@ -337,42 +337,42 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-windows.zip",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-3.0.0.2-windows.zip",
               "archiveFileName": "esptool-3.0.0.2-windows.zip",
               "checksum": "SHA-256:b192bfc1545a3c92658ce586b4edcc2aca3f0ad4b3fa8417d658bc8a48f1387e",
               "size": "3434736"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-macos.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-3.0.0.2-macos.tar.gz",
               "archiveFileName": "esptool-3.0.0.2-macos.tar.gz",
               "checksum": "SHA-256:2cafab7f1ebce89475b84c115548eaace40b6366d7b3f9862cdb2fc64f806643",
               "size": "3859642"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-3.0.0.2-linux.tar.gz",
               "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
               "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
               "size": "57526"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-3.0.0.2-linux.tar.gz",
               "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
               "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
               "size": "57526"
             },
             {
               "host": "arm-linux-gnueabihf",
-              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-3.0.0.2-linux.tar.gz",
               "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
               "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
               "size": "57526"
             },
             {
               "host": "aarch64-linux-gnu",
-              "url": "https://dl.espressif.com/dl/esptool-3.0.0.2-linux.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/esptool-3.0.0.2-linux.tar.gz",
               "archiveFileName": "esptool-3.0.0.2-linux.tar.gz",
               "checksum": "SHA-256:d5cb51da1c74ff69f81b820470d2ecccb5c7c3a2dec7776483d4c89588b00020",
               "size": "57526"
@@ -474,42 +474,42 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-win32-1.22.0-96-g2852398-5.2.0.zip",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/xtensa-esp32-elf-win32-1.22.0-96-g2852398-5.2.0.zip",
               "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-96-g2852398-5.2.0.zip",
               "checksum": "SHA-256:8e2a2e25d4714ae6e4b992be1b1c261caed5b523b0cc0887b6749229c9febbb0",
               "size": "125810912"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-macos-1.22.0-96-g2852398-5.2.0.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/xtensa-esp32-elf-macos-1.22.0-96-g2852398-5.2.0.tar.gz",
               "archiveFileName": "xtensa-esp32-elf-macos-1.22.0-96-g2852398-5.2.0.tar.gz",
               "checksum": "SHA-256:6aeae9547f0cd7e442d1df21821cea8b15d0a6ce349bbd86466e2997b738a99c",
               "size": "50520203"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux64-1.22.0-96-g2852398-5.2.0.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/xtensa-esp32-elf-linux64-1.22.0-96-g2852398-5.2.0.tar.gz",
               "archiveFileName": "xtensa-esp32-elf-linux64-1.22.0-96-g2852398-5.2.0.tar.gz",
               "checksum": "SHA-256:798a8638f11ad37f41b9640582f869c61ffb4da6d932279fde94a2b636ad2dac",
               "size": "44211883"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux32-1.22.0-96-g2852398-5.2.0.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/xtensa-esp32-elf-linux32-1.22.0-96-g2852398-5.2.0.tar.gz",
               "archiveFileName": "xtensa-esp32-elf-linux32-1.22.0-96-g2852398-5.2.0.tar.gz",
               "checksum": "SHA-256:4eea601188aa8f3c3d45d7936ab4c0fabb75b4970dccf7a061de47dba49e377f",
               "size": "45563578"
             },
             {
               "host": "arm-linux-gnueabihf",
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux-armel-1.22.0-96-g2852398-5.2.0.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/xtensa-esp32-elf-linux-armel-1.22.0-96-g2852398-5.2.0.tar.gz",
               "archiveFileName": "xtensa-esp32-elf-linux-armel-1.22.0-96-g2852398-5.2.0.tar.gz",
               "checksum": "SHA-256:abfe06522f7c3479f6c7434c4bf926c50fa2039362b96abe95fa1f05ec519a9b",
               "size": "50670980"
             },
             {
               "host": "aarch64-linux-gnu",
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux-armel-1.22.0-96-g2852398-5.2.0.tar.gz",
+              "url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/xtensa-esp32-elf-linux-armel-1.22.0-96-g2852398-5.2.0.tar.gz",
               "archiveFileName": "xtensa-esp32-elf-linux-armel-1.22.0-96-g2852398-5.2.0.tar.gz",
               "checksum": "SHA-256:abfe06522f7c3479f6c7434c4bf926c50fa2039362b96abe95fa1f05ec519a9b",
               "size": "50670980"
