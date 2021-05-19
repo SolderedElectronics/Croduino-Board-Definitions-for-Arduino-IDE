@@ -184,8 +184,8 @@
 			"category": "Croduino",           
 			"url": "https://github.com/e-radionicacom/Croduino-Board-Definitions-for-Arduino-IDE/raw/master/Inkplate_core-1.0.1.zip", 
 			"archiveFileName": "Inkplate_core-1.0.1.zip", 
-			"checksum": "SHA-256:222aee915a18cbbbfb8d1715f5495439139e1fc2a746e0b6e541dc77c40e7b91",         
-			"size": "47560020",
+			"checksum": "SHA-256:a14299f238725142781424823867846d4b53ab52e17effce5a1f82bd46cb714b",         
+			"size": "94008786",
 			"version": "1.0.1", 
 			"name": "Inkplate Boards",
 			"architecture": "Inkplate",           
@@ -193,9 +193,12 @@
 				{
 					"name": "Inkplate 6 (ESP32)"
 				},
-								{
+				{
 					"name": "Inkplate 10 (ESP32)"
-				}
+				},
+                {
+                    "name": "Inkplate 6PLUS (ESP32)"
+                }
 			], 
 			"toolsDependencies": [
             {
